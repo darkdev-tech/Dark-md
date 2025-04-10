@@ -35,21 +35,22 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-     TOXIC MD
+  
+  DARK MD
 
 > GITHUB LINK
-https://github.com/xhclintohn/Toxic-MD/fork
+https://github.com/darkdev-tech/Dark-md
 
-> WHATSAPP CHANNEL https://whatsapp.com/channel/0029VagJlnG6xCSU2tS1Vz19
+> WHATSAPP CHANNEL https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26
 
 
-DEV : 𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧
-  `;
+DEV : DARK
+`;
     
 let menuMsg = `
      Toxic Tech
 
- </>`;
+ `;
 
    var lien = mybotpic();
 
