@@ -9,11 +9,11 @@
 # ғᴏʀᴋ ᴍʏ ʀᴇᴘᴏ
 
 </a></p>
-- <a href="https://github.com/darkdev-tech/DARK-md/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(0, 255, 255)&style=for-the-badge&logo=porsche&logoColor=yellow" width="240" height="38.45"/></a></p>
+- <a href="https://github.com/darkdev-tech/Dark-md/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(0, 255, 255)&style=for-the-badge&logo=porsche&logoColor=yellow" width="240" height="38.45"/></a></p>
 
 # Get Session ID (SERVER 1)
 
-- <a href="https://dark-md-sessions.onrender.com/pair"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/TAP FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="240" height="38.45"/></a></p>
+- <a href="https://javiel-md-session.onrender/pair"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/TAP FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="240" height="38.45"/></a></p>
 
     
 # DEPLOYMENT
