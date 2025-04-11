@@ -9,7 +9,7 @@
 # ғᴏʀᴋ ᴍʏ ʀᴇᴘᴏ
 
 </a></p>
-- <a href="https://github.com/Jaydendev112/DARK-md/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(0, 255, 255)&style=for-the-badge&logo=porsche&logoColor=yellow" width="240" height="38.45"/></a></p>
+- <a href="https://github.com/darkdev-tech/DARK-md/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(0, 255, 255)&style=for-the-badge&logo=porsche&logoColor=yellow" width="240" height="38.45"/></a></p>
 
 # Get Session ID (SERVER 1)
 
